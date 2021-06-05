@@ -1,5 +1,5 @@
 const { Telegraf } = require('telegraf')
-const bot = new Telegraf('1611505493:AAF4ARqikvvqQDEXcfBN6Hc4F9BCWvbbGBE')
+const bot = new Telegraf('1808961286:AAHVcH70cSuVi7zdayFLgPO7BBpCCAu2w1g')
 bot.launch()
 console.log('Bot has been started')
 module.exports = bot
